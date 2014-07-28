@@ -1,0 +1,8 @@
+sourceFileName = "Template"
+name = "template"
+executeFunctionName = "execute"
+regexes = [
+            "regex1"
+          , "regex2"
+          ]
+

@@ -1,0 +1,7 @@
+* IVI Script Template
+A template for IVI scripts
+** How to implement your own script
+   1. Write the README file for it
+   2. Write the IVI file
+   3. Write the script
+   4. Write the VERSION file for it
