@@ -2,7 +2,7 @@ sourceFileName = "Template"
 name = "template"
 executeFunctionName = "execute"
 regexes = [
-            "regex1"
-          , "regex2"
+              "regex1"
+            , "regex2"
           ]
 

@@ -1,0 +1,8 @@
+sourceFileName = "TemplatePython"
+name = "template_python"
+executeFunctionName = "executePython"
+regexes = [
+              "regex3"
+            , "regex4"
+          ]
+
