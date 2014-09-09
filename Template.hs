@@ -1,8 +1,12 @@
 -- Change 'IVIScriptTemplate' to the name of the script directory you want.
 -- Change 'Template' to the name of this sourcefile
+{-|
+Module      : Scripts.IVIScriptTemplate.Template
+Description : A template script
+-}
 module Scripts.IVIScriptTemplate.Template where
 
-import Script
+import           Script
 
 -- | A description of the workings of the script.
 execute :: IVIScriptArgs -> IO IVIScriptResult
