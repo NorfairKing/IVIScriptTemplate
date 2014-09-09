@@ -1,0 +1,8 @@
+sourceFileName = "TemplateC"
+name = "templateC"
+executeFunctionName = "execute"
+regexes = [
+            "regex5"
+          , "regex6"
+          ]
+
